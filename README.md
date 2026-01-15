@@ -14,16 +14,26 @@ A responsive, professional-grade dashboard built with Streamlit, featuring dynam
 
 ## Tech Stack & Tools
 Frontend: Streamlit for a responsive and high-performance web interface.
+
 Machine Learning: Scikit-learn for predictive modeling and trend forecasting.
+
 NLP: TextBlob for natural language processing and financial lexicon analysis.
+
 Data Handling: Pandas and NumPy for high-speed data manipulation and technical indicator calculations.
+
 Data Source: yfinance for real-time market data integration.
+
 Development Environment: VS Code on Microsoft Windows.
 
 ## How to Run Locally
 Clone this repo:
+
 git clone https://github.com/YOUR_USERNAME/alphapulse-finance-ai.git
+
 Install dependencies:
+
 pip install -r requirements.txt
+
 Run the application:
+
 streamlit run app.py
